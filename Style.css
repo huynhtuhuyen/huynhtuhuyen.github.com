@@ -1,0 +1,27 @@
+
+table, th, td {
+  border: 1px solid #009999;
+}
+.a {
+  color: #009999;
+}
+.ava {
+  height: 400px;
+  width: 400px;
+}
+.pro5 {
+  border: 1px solid rgb(25, 51, 77);
+  outline-color: rgb(25, 51, 77);
+  outline-style: double;
+  background-color: #c6d9ec;
+}
+.title {
+  color: #009999;
+  text-align: center;
+}
+.infor {
+  text-align: center;
+}
+.row {
+  text-align: center;
+}
